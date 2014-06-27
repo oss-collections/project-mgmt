@@ -1,0 +1,24 @@
+[submodule "chiliproject"]
+	path = chiliproject
+	url = https://github.com/chiliproject/chiliproject.git
+[submodule "projectlibre"]
+	path = projectlibre
+	url = git://git.code.sf.net/p/projectlibre/code
+[submodule "TaskJuggler"]
+	path = TaskJuggler
+	url = https://github.com/taskjuggler/TaskJuggler.git
+[submodule "fusionforge"]
+	path = fusionforge
+	url = https://fusionforge.org/anonscm/git/fusionforge/fusionforge.git
+[submodule "calligra"]
+	path = calligra
+	url = http://anongit.kde.org/calligra.git
+[submodule "libreplan"]
+	path = libreplan
+	url = git://github.com/Igalia/libreplan.git
+[submodule "ganttproject"]
+	path = ganttproject
+	url = hg::http://hg.code.sf.net/p/ganttproject/code-0
+[submodule "egroupware"]
+	path = egroupware
+	url = git@github.com:oss-mirrors/egroupware.git
