@@ -25,3 +25,6 @@
 [submodule "redmine"]
 	path = redmine
 	url = https://github.com/redmine/redmine.git
+[submodule "Project-Pier"]
+	path = Project-Pier
+	url = https://github.com/phpfreak/Project-Pier.git
