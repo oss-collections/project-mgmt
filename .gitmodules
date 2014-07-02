@@ -28,3 +28,6 @@
 [submodule "Project-Pier"]
 	path = Project-Pier
 	url = https://github.com/phpfreak/Project-Pier.git
+[submodule "Collabtive"]
+	path = Collabtive
+	url = https://github.com/philippK-de/Collabtive.git
