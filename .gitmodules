@@ -31,3 +31,6 @@
 [submodule "Collabtive"]
 	path = Collabtive
 	url = https://github.com/philippK-de/Collabtive.git
+[submodule "project-open"]
+	path = project-open
+	url = https://github.com/cognovis/project-open.git
